@@ -1,4 +1,4 @@
-Feature: Missing "b/" prefix when entering billing code in Timesheet
+Feature: Missing popup for entering timesheet entry in Time entry module in side bar.
   As a resource logging working hours
   I want the system to have an inbuilt "b/" prefix or validation for billing codes
   So that downstream operational workflows and billing audits do not fail
